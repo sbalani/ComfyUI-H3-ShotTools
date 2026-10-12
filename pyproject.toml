@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-h3-shottools"
+version = "1.0.0"
+description = "Endangered AI H3 workflow tools"
+requires-python = ">=3.10"
+[project.urls]
+Repository = "https://github.com/sbalani/ComfyUI-H3-ShotTools"
+Patreon = "https://www.patreon.com/endangeredai"
+YouTube = "https://www.youtube.com/@endangeredai"
